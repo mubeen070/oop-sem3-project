@@ -1,0 +1,1 @@
+Name:,   Father Name:,     CNIC:,Address,
